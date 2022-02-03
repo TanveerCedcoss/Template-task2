@@ -1,3 +1,6 @@
+body{
+    background-color: lightgray;
+}
 *{
     margin: 0px;
     padding: 0px;
@@ -38,4 +41,37 @@ li a{
 }
 .active{
     background-color: green;
+}
+h3{
+    font-size: 30px;
+    color: #0b4968;
+    margin-top: 29px;
+    margin-left: 29px;
+    font-family: sans-serif;
+}
+.content{
+    float: left;
+    width: 58%;
+    background-color: white;
+}
+p{
+    margin-left: 29px;
+    margin-right: 20px;
+    
+}
+h2{
+    font-size: 20px;
+    color: #0b4968;
+    font-family: sans-serif;
+    padding: 25px;
+    padding-bottom: 0px;
+
+}
+.sidebar{
+    background-color: lightgray;
+    float: right;
+    width: 38%;
+}
+#h{
+    margin: top 0px; ;
 }
